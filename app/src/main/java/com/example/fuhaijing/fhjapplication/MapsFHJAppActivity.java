@@ -17,6 +17,7 @@ public class MapsFHJAppActivity extends FragmentActivity implements OnMapReadyCa
     private boolean isModifed2;
     private boolean isModifed3;
     private boolean isModified4;
+    //sssssssss
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
