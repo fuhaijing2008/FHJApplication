@@ -14,7 +14,7 @@ public class MapsFHJAppActivity extends FragmentActivity implements OnMapReadyCa
 
     private GoogleMap mMap;
     private boolean isModified;
-
+    private boolean isModifed2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
